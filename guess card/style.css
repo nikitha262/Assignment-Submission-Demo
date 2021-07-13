@@ -1,0 +1,73 @@
+  
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Calibri;
+  }
+  .container{
+  width: 80%;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-left: 10%;
+  
+  
+  }
+  
+  .padd {
+      padding:20px;
+  }
+  
+  .header {
+          height: 50px;
+          width: 100%;
+          background-color:#F2BC94;
+          margin-bottom:15px;
+          display:flex;
+          justify-content:space-between;
+          border: 2px solid black;
+          color: black;
+  }
+  
+  .cards{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      padding-bottom: 20px;
+      background-color:#F2BC94;
+      border-radius: 30px;
+      border:2px solid black;
+    
+      
+      
+  }
+  .card{
+      height:300px;
+      width:18%;
+      background-color: black;
+      margin-top: 20px;
+      border: 2px solid black;
+      background-size: cover;
+      border-radius: 25px;
+      box-shadow: 0 15px 35px #F2BC94;
+      transition: all ease 0.4 ;
+}
+      
+      
+      
+  
+  
+  .opened {
+      display: none;
+  }
+  
+  .overlay {
+      height: 300px;
+      width: 100%;
+      background-color:#00203FFF;
+      border-radius: 25px;
+  }
+  body{
+      background-image: url(https://media.istockphoto.com/vectors/vector-poker-black-background-playing-card-symbols-pattern-blackjack-vector-id868429174?k=6&m=868429174&s=612x612&w=0&h=4hGMxT-mUXDTEVTiWnogDku8TEcuCVwbM1roL6rD-TY=);
+  }
+
