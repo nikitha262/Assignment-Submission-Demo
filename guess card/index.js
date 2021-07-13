@@ -1,60 +1,60 @@
 let cards=[
     {
-        image:"https://wallpaperaccess.com/full/3096201.jpg",
+        image:"https://i.pinimg.com/originals/6c/a8/91/6ca8918c3dd953377dd855bbe11fb61c.jpg",
         value:1,
         status:"closed"
     },
 
     {
-        image:"https://wallpaperaccess.com/full/3096201.jpg",
+        image:"https://i.pinimg.com/originals/6c/a8/91/6ca8918c3dd953377dd855bbe11fb61c.jpg",
         value:1,
         status:"closed"
     },
 
     {
-        image:"https://fsb.zobj.net/crop.php?r=wnSjCNRNfShTy_m-Pg0Qdt5y_XMM0_yw8g_QNWBoIeEP_yti_nsqXVHzkw1kBdQssfU7_0FCqJ6mx80Ecb3KB9-ufpL6WkliNBkD9Ta6LI-iS3WyfCRD7_ZuysTl1CKEih_1tdYKPKmv_-IfDcQNzLuKTB7MqMzWany1gh0PF8ityOtBJh6PjxxS0T8",
+        image:"https://i.pinimg.com/474x/38/2b/c5/382bc5c8bc07b3904994179851e256a9.jpg",
         value:2,
         status:"closed"
     },
 
     {
-        image:"https://fsb.zobj.net/crop.php?r=wnSjCNRNfShTy_m-Pg0Qdt5y_XMM0_yw8g_QNWBoIeEP_yti_nsqXVHzkw1kBdQssfU7_0FCqJ6mx80Ecb3KB9-ufpL6WkliNBkD9Ta6LI-iS3WyfCRD7_ZuysTl1CKEih_1tdYKPKmv_-IfDcQNzLuKTB7MqMzWany1gh0PF8ityOtBJh6PjxxS0T8",
+        image:"https://i.pinimg.com/474x/38/2b/c5/382bc5c8bc07b3904994179851e256a9.jpg",
         value:2,
         status:"closed"
     },
 
     {
-        image:"https://3.bp.blogspot.com/-1aEkhRQlR_w/XMO8bXBPlCI/AAAAAAAAOWo/yOBscUzKQcYlZOg1HuzL3A3J0uoO9h90gCLcBGAs/s2560/baby-groot-4k-tf-1080x1920.jpg",
+        image: "https://st4.depositphotos.com/11095424/25561/i/600/depositphotos_255611544-stock-photo-dora-explorer-walking-going-school.jpg",
         value:3,
         status:"closed"
     },
 
     {
-        image:"https://3.bp.blogspot.com/-1aEkhRQlR_w/XMO8bXBPlCI/AAAAAAAAOWo/yOBscUzKQcYlZOg1HuzL3A3J0uoO9h90gCLcBGAs/s2560/baby-groot-4k-tf-1080x1920.jpg",
+        image:"https://st4.depositphotos.com/11095424/25561/i/600/depositphotos_255611544-stock-photo-dora-explorer-walking-going-school.jpg",
         value:3,
         status:"closed"
     },
 
     {
-        image:"https://iphoneswallpapers.com/wp-content/uploads/2019/06/Iron-Man-Mark-85-Infinity-Stone-Armor-iPhone-Wallpaper.jpg",
+        image:"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9038defb-5494-46f2-a66d-e84678fbfa33/ddwfcpl-2c306a0c-db6e-4e62-8fb3-1f13635df544.png/v1/fill/w_1024,h_1608,strp/nobita_poses__2d__by_kaylor2013_ddwfcpl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwOCIsInBhdGgiOiJcL2ZcLzkwMzhkZWZiLTU0OTQtNDZmMi1hNjZkLWU4NDY3OGZiZmEzM1wvZGR3ZmNwbC0yYzMwNmEwYy1kYjZlLTRlNjItOGZiMy0xZjEzNjM1ZGY1NDQucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mpbBtklaLkZXMULWzZAJ0BaT9cgWflfUKTitfaJvHgM",
         value:4,
         status:"closed"
     },
 
     {
-        image:"https://iphoneswallpapers.com/wp-content/uploads/2019/06/Iron-Man-Mark-85-Infinity-Stone-Armor-iPhone-Wallpaper.jpg",
+        image:"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9038defb-5494-46f2-a66d-e84678fbfa33/ddwfcpl-2c306a0c-db6e-4e62-8fb3-1f13635df544.png/v1/fill/w_1024,h_1608,strp/nobita_poses__2d__by_kaylor2013_ddwfcpl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwOCIsInBhdGgiOiJcL2ZcLzkwMzhkZWZiLTU0OTQtNDZmMi1hNjZkLWU4NDY3OGZiZmEzM1wvZGR3ZmNwbC0yYzMwNmEwYy1kYjZlLTRlNjItOGZiMy0xZjEzNjM1ZGY1NDQucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mpbBtklaLkZXMULWzZAJ0BaT9cgWflfUKTitfaJvHgM",
         value:4,
         status:"closed"
     },
 
     {
-        image:"https://1.bp.blogspot.com/-9z2l__m0DFY/XS4va-X3GFI/AAAAAAAADgw/PXtqes2Ecq8x042xMUJP9oDEIe-yisiiQCLcBGAs/s1600/3d8ef423bb621a87c36bbe7e63444d76.jpg",
+        image:"https://i.pinimg.com/736x/84/cc/61/84cc6199303332e1abf2d5f7b7727bcd.jpg",
         value:5,
         status:"closed"
     },
 
     {
-        image:"https://1.bp.blogspot.com/-9z2l__m0DFY/XS4va-X3GFI/AAAAAAAADgw/PXtqes2Ecq8x042xMUJP9oDEIe-yisiiQCLcBGAs/s1600/3d8ef423bb621a87c36bbe7e63444d76.jpg",
+        image:"https://i.pinimg.com/736x/84/cc/61/84cc6199303332e1abf2d5f7b7727bcd.jpg",
         value:5,
         status:"closed"
     },
