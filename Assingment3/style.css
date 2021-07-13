@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: rgba(170, 15, 157, 0.267);
+}
+
+.position{
+
+    align-content: center;
+    text-align: center;  
+}
+main{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-size: 30px;
+    color: crimson;
+}
